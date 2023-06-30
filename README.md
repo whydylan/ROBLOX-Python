@@ -1,2 +1,5 @@
-# ROBLOX-Python
-All related Python ROBLOX script(s) that I have created that I decide to release.
+# ROBLOX Python Script(s)
+
+All script(s) related to ROBLOX written using Python which I have decided to share and archive.
+
+Scripts within this repository will not be maintained and only updated under certain circumstances.
